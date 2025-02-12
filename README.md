@@ -1,4 +1,4 @@
-### Angular Componet lifecycle hooks
+### Angular Component lifecycle hooks
 
 Let's explore Angular 18 component lifecycle hooks with examples.  While the core lifecycle hooks haven't changed drastically in recent Angular versions, it's always good to refresh and see how they're used in modern Angular applications.
 
